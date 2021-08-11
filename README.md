@@ -1,1 +1,1 @@
-# HOST: Opportunistic maintenance optimization in offshore wind farms
+# HOST: Opportunistic Maintenance Optimization in Offshore Wind Farms
